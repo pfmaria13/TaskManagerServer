@@ -12,7 +12,7 @@
 
 1. **Клонирование репозитория:**
    ```bash
-   git clone https://github.com/pfmaria13/TaskManagerServer
+   git clone https://github.com/pfmaria13/TaskManagerServer.git
    cd <название-репозитория>
 
 2. **Запуск серверной части**
